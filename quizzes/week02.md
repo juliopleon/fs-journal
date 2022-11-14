@@ -63,7 +63,7 @@ n/a
 **10.** When it comes to functions or methods, what is the difference between a `parameter` and an `argument`?
 <!-- enter you answer in the space below -->
 ```
-arguements are the values declared within the function while a Parameter is are values declared for the function in ()
+arguments are the values declared within the function while a Parameter is are values declared for the function in ()
 ```
 **11.** What is the difference between a `primitive` value and a `reference` value?
 <!-- enter you answer in the space below -->
